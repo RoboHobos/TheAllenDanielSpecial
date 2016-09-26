@@ -1,14 +1,14 @@
 # TheAllenDanielSpecial
 Code for the robot in honor of the great Allen Daniel
 
-Version 0.0
+Version 0.0.1
 
 Contains 
  - Nothing
  
 Planned
  - Multiple autonomous modes
- - Dual ans single joystick support
+ - Dual and single joystick support
  - Fancy control loops
  - Drive control
  - Intake control
